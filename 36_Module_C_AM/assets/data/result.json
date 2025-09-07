@@ -1,0 +1,448 @@
+[
+    {
+        "country": "Korea",
+        "flag": "flags/kr.png",
+        "categories": {
+            "gold": [
+                {
+                    "name": "madam shelly lee cooper",
+                    "avatar": "avatars/gold.png",
+                    "skill_name": "professional lady"
+                },
+                {
+                    "name": "mrs shelly",
+                    "avatar": "avatars/gold.png",
+                    "skill_name": "professional flag maker"
+                },
+                {
+                    "name": "betsy ross",
+                    "avatar": "avatars/gold.png",
+                    "skill_name": "american flag"
+                },
+                {
+                    "name": "shelly ross",
+                    "avatar": "avatars/gold.png",
+                    "skill_name": "fun with flags with doctor sheldon cooper"
+                },
+                {
+                    "name": "fun with flags",
+                    "avatar": "avatars/gold.png",
+                    "skill_name": "flag maker"
+                },
+                {
+                    "name": "sheldon",
+                    "avatar": "avatars/gold.png",
+                    "skill_name": "doctor"
+                },
+                {
+                    "name": "betsy cooper",
+                    "avatar": "avatars/gold.png",
+                    "skill_name": "madam"
+                }
+            ],
+            "silver": [
+                {
+                    "name": "sheldon",
+                    "avatar": "avatars/silver.png",
+                    "skill_name": "physicist"
+                },
+                {
+                    "name": "sheldon lee spock",
+                    "avatar": "avatars/silver.png",
+                    "skill_name": "spock impersonator"
+                },
+                {
+                    "name": "spock",
+                    "avatar": "avatars/silver.png",
+                    "skill_name": "star trek"
+                },
+                {
+                    "name": "shelly",
+                    "avatar": "avatars/silver.png",
+                    "skill_name": "pookie"
+                },
+                {
+                    "name": "spock cooper",
+                    "avatar": "avatars/silver.png",
+                    "skill_name": "earth man"
+                },
+                {
+                    "name": "spock lee cooper",
+                    "avatar": "avatars/silver.png",
+                    "skill_name": "professional human"
+                }
+            ],
+            "bronze": [
+                {
+                    "name": "scared shelly",
+                    "avatar": "avatars/bronze.png",
+                    "skill_name": "screaming"
+                },
+                {
+                    "name": "shelly",
+                    "avatar": "avatars/bronze.png",
+                    "skill_name": "pookie"
+                }
+            ],
+            "excellence": []
+        }
+    },
+    {
+        "country": "Chinese Taipei",
+        "flag": "flags/tw.png",
+        "categories": {
+            "gold": [
+                {
+                    "name": "madam shelly lee cooper",
+                    "avatar": "avatars/gold.png",
+                    "skill_name": "professional flag maker"
+                },
+                {
+                    "name": "mrs shelly",
+                    "avatar": "avatars/gold.png",
+                    "skill_name": "fun with flags"
+                },
+                {
+                    "name": "betsy ross",
+                    "avatar": "avatars/gold.png",
+                    "skill_name": "american flag"
+                },
+                {
+                    "name": "shelly ross",
+                    "avatar": "avatars/gold.png",
+                    "skill_name": "fun with flags with doctor sheldon cooper"
+                },
+                {
+                    "name": "fun with flags",
+                    "avatar": "avatars/gold.png",
+                    "skill_name": "flag maker"
+                }
+            ],
+            "silver": [
+                {
+                    "name": "sheldon",
+                    "avatar": "avatars/silver.png",
+                    "skill_name": "physicist"
+                },
+                {
+                    "name": "sheldon lee spock",
+                    "avatar": "avatars/silver.png",
+                    "skill_name": "spock impersonator"
+                },
+                {
+                    "name": "spock",
+                    "avatar": "avatars/silver.png",
+                    "skill_name": "star trek"
+                },
+                {
+                    "name": "shelly",
+                    "avatar": "avatars/silver.png",
+                    "skill_name": "pookie"
+                },
+                {
+                    "name": "spock cooper",
+                    "avatar": "avatars/silver.png",
+                    "skill_name": "earth man"
+                }
+            ],
+            "bronze": [
+                {
+                    "name": "scared shelly",
+                    "avatar": "avatars/bronze.png",
+                    "skill_name": "screaming"
+                },
+                {
+                    "name": "shelly",
+                    "avatar": "avatars/bronze.png",
+                    "skill_name": "pookie"
+                },
+                {
+                    "name": "screaming shelly",
+                    "avatar": "avatars/bronze.png",
+                    "skill_name": "professional screaming"
+                },
+                {
+                    "name": "dr cooper",
+                    "avatar": "avatars/bronze.png",
+                    "skill_name": "physicist"
+                },
+                {
+                    "name": "shelly welly",
+                    "avatar": "avatars/bronze.png",
+                    "skill_name": "cookie pookie"
+                }
+            ],
+            "excellence": []
+        }
+    },
+    {
+        "country": "Brazil",
+        "flag": "flags/br.png",
+        "categories": {
+            "gold": [
+                {
+                    "name": "madam shelly lee cooper",
+                    "avatar": "avatars/gold.png",
+                    "skill_name": "professional flag maker"
+                },
+                {
+                    "name": "mrs shelly",
+                    "avatar": "avatars/gold.png",
+                    "skill_name": "fun with flags"
+                }
+            ],
+            "silver": [
+                {
+                    "name": "sheldon",
+                    "avatar": "avatars/silver.png",
+                    "skill_name": "physicist"
+                },
+                {
+                    "name": "sheldon lee spock",
+                    "avatar": "avatars/silver.png",
+                    "skill_name": "spock impersonator"
+                },
+                {
+                    "name": "spock",
+                    "avatar": "avatars/silver.png",
+                    "skill_name": "star trek"
+                },
+                {
+                    "name": "shelly",
+                    "avatar": "avatars/silver.png",
+                    "skill_name": "pookie"
+                },
+                {
+                    "name": "spock cooper",
+                    "avatar": "avatars/silver.png",
+                    "skill_name": "earth man"
+                }
+            ],
+            "bronze": [
+                {
+                    "name": "scared shelly",
+                    "avatar": "avatars/bronze.png",
+                    "skill_name": "screaming"
+                },
+                {
+                    "name": "shelly",
+                    "avatar": "avatars/bronze.png",
+                    "skill_name": "pookie"
+                },
+                {
+                    "name": "screaming shelly",
+                    "avatar": "avatars/bronze.png",
+                    "skill_name": "professional screaming"
+                },
+                {
+                    "name": "dr cooper",
+                    "avatar": "avatars/bronze.png",
+                    "skill_name": "physicist"
+                },
+                {
+                    "name": "shelly welly",
+                    "avatar": "avatars/bronze.png",
+                    "skill_name": "cookie pookie"
+                },
+                {
+                    "name": "sheldon",
+                    "avatar": "avatars/bronze.png",
+                    "skill_name": "texan"
+                }
+            ],
+            "excellence": []
+        }
+    },
+    {
+        "country": "Switzerland",
+        "flag": "flags/ch.png",
+        "categories": {
+            "gold": [
+                {
+                    "name": "madam shelly lee cooper",
+                    "avatar": "avatars/gold.png",
+                    "skill_name": "professional flag maker"
+                },
+                {
+                    "name": "mrs shelly",
+                    "avatar": "avatars/gold.png",
+                    "skill_name": "fun with flags"
+                },
+                {
+                    "name": "betsy ross",
+                    "avatar": "avatars/gold.png",
+                    "skill_name": "american flag"
+                },
+                {
+                    "name": "shelly ross",
+                    "avatar": "avatars/gold.png",
+                    "skill_name": "fun with flags with doctor sheldon cooper"
+                },
+                {
+                    "name": "fun with flags",
+                    "avatar": "avatars/gold.png",
+                    "skill_name": "flag maker"
+                }
+            ],
+            "silver": [
+                {
+                    "name": "sheldon",
+                    "avatar": "avatars/silver.png",
+                    "skill_name": "physicist"
+                },
+                {
+                    "name": "sheldon lee spock",
+                    "avatar": "avatars/silver.png",
+                    "skill_name": "spock impersonator"
+                },
+                {
+                    "name": "spock",
+                    "avatar": "avatars/silver.png",
+                    "skill_name": "star trek"
+                },
+                {
+                    "name": "shelly",
+                    "avatar": "avatars/silver.png",
+                    "skill_name": "pookie"
+                },
+                {
+                    "name": "spock cooper",
+                    "avatar": "avatars/silver.png",
+                    "skill_name": "earth man"
+                }
+            ],
+            "bronze": [
+                {
+                    "name": "scared shelly",
+                    "avatar": "avatars/bronze.png",
+                    "skill_name": "screaming"
+                },
+                {
+                    "name": "shelly",
+                    "avatar": "avatars/bronze.png",
+                    "skill_name": "pookie"
+                },
+                {
+                    "name": "screaming shelly",
+                    "avatar": "avatars/bronze.png",
+                    "skill_name": "professional screaming"
+                },
+                {
+                    "name": "dr cooper",
+                    "avatar": "avatars/bronze.png",
+                    "skill_name": "physicist"
+                },
+                {
+                    "name": "shelly welly",
+                    "avatar": "avatars/bronze.png",
+                    "skill_name": "cookie pookie"
+                },
+                {
+                    "name": "howdey",
+                    "avatar": "avatars/bronze.png",
+                    "skill_name": "texan"
+                }
+            ],
+            "excellence": []
+        }
+    },
+    {
+        "country": "Thailand",
+        "flag": "flags/th.png",
+        "categories": {
+            "gold": [],
+            "silver": [],
+            "bronze": [
+                {
+                    "name": "scared shelly",
+                    "avatar": "avatars/bronze.png",
+                    "skill_name": "screaming"
+                },
+                {
+                    "name": "shelly",
+                    "avatar": "avatars/bronze.png",
+                    "skill_name": "pookie"
+                }
+            ],
+            "excellence": []
+        }
+    },
+    {
+        "country": "Hungary",
+        "flag": "flags/hu.png",
+        "categories": {
+            "gold": [
+                {
+                    "name": "madam shelly lee cooper",
+                    "avatar": "avatars/gold.png",
+                    "skill_name": "professional flag maker"
+                }
+            ],
+            "silver": [],
+            "bronze": [],
+            "excellence": []
+        }
+    },
+    {
+        "country": "Sweden",
+        "flag": "flags/se.png",
+        "categories": {
+            "gold": [],
+            "silver": [
+                {
+                    "name": "sheldon",
+                    "avatar": "avatars/silver.png",
+                    "skill_name": "physicist"
+                }
+            ],
+            "bronze": [
+                {
+                    "name": "scared shelly",
+                    "avatar": "avatars/bronze.png",
+                    "skill_name": "screaming"
+                },
+                {
+                    "name": "shelly",
+                    "avatar": "avatars/bronze.png",
+                    "skill_name": "pookie"
+                },
+                {
+                    "name": "screaming shelly",
+                    "avatar": "avatars/bronze.png",
+                    "skill_name": "professional screaming"
+                }
+            ],
+            "excellence": []
+        }
+    },
+    {
+        "country": "Hong Kong, China",
+        "flag": "flags/hk.png",
+        "categories": {
+            "gold": [],
+            "silver": [],
+            "bronze": [],
+            "excellence": []
+        }
+    },
+    {
+        "country": "Macao, China",
+        "flag": "flags/mo.png",
+        "categories": {
+            "gold": [],
+            "silver": [],
+            "bronze": [],
+            "excellence": []
+        }
+    },
+    {
+        "country": "Netherlands",
+        "flag": "flags/nl.png",
+        "categories": {
+            "gold": [],
+            "silver": [],
+            "bronze": [],
+            "excellence": []
+        }
+    }
+]
